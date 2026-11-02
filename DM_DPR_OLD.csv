@@ -1,0 +1,27 @@
+Entity DCID,Entity properties isoCode,Entity properties name,Entity properties unDataLabel,Variable DCID,Variable observation date,Variable observation metadata importName,Variable observation metadata provenanceUrl,Variable observation metadata scalingFactor,Variable observation metadata unit,Variable observation metadata unitDisplayName,Variable observation value,Variable properties name
+undata/unicef/DM_DPR_OLD2000,,Japan,,country/JPN,2000,,,,,,25.583,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2001,,Japan,,country/JPN,2001,,,,,,26.62,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2002,,Japan,,country/JPN,2002,,,,,,27.627,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2003,,Japan,,country/JPN,2003,,,,,,28.517,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2004,,Japan,,country/JPN,2004,,,,,,29.49,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2005,,Japan,,country/JPN,2005,,,,,,30.746,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2006,,Japan,,country/JPN,2006,,,,,,32.1,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2007,,Japan,,country/JPN,2007,,,,,,33.385,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2008,,Japan,,country/JPN,2008,,,,,,34.655,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2009,,Japan,,country/JPN,2009,,,,,,35.689,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2010,,Japan,,country/JPN,2010,,,,,,36.357,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2011,,Japan,,country/JPN,2011,,,,,,37.51,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2012,,Japan,,country/JPN,2012,,,,,,39.352,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2013,,Japan,,country/JPN,2013,,,,,,41.322,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2014,,Japan,,country/JPN,2014,,,,,,43.133,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2015,,Japan,,country/JPN,2015,,,,,,44.698,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2016,,Japan,,country/JPN,2016,,,,,,46.034,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2017,,Japan,,country/JPN,2017,,,,,,47.089,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2018,,Japan,,country/JPN,2018,,,,,,47.91,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2019,,Japan,,country/JPN,2019,,,,,,48.519,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2020,,Japan,,country/JPN,2020,,,,,,49.13,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2021,,Japan,,country/JPN,2021,,,,,,49.744,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2022,,Japan,,country/JPN,2022,,,,,,50.057,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2023,,Japan,,country/JPN,2023,,,,,,50.285,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2024,,Japan,,country/JPN,2024,,,,,,50.662,Old age dependency ratio in Japan
+undata/unicef/DM_DPR_OLD2025,,Japan,,country/JPN,2025,,,,,,51.039,Old age dependency ratio in Japan
